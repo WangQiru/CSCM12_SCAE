@@ -7,6 +7,5 @@ Grade composition:
    3. Examination 1: 76%
 
 Final grade:  83%
-   
-   ![](https://www.dropbox.com/s/l0tklnqmcl3ahcf/swansea-university-logo.svg?dl=1)
 
+<img src="https://www.dropbox.com/s/l0tklnqmcl3ahcf/swansea-university-logo.svg?dl=1" alt="Swansea University Logo" width="300px">

@@ -1,5 +1,6 @@
 # CSCM12_SCAE
 By Lecturer: [Dr. Gary K.L. Tam](http://www.swansea.ac.uk/staff/science/computer-science/k.l.tam/) in Swansea University
+
 Grade composition:
    1. Coursework 1: 100%
    2. Coursework 2: 100%
